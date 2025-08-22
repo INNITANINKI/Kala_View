@@ -109,17 +109,3 @@ spring.datasource.password=yourpassword
 ```bash
 mvn spring-boot:run
 ```
-
-4. Access in browser:
-```
-http://localhost:8080/gallery
-```
-
----
-
-## ✅ Testing
-
-- Endpoints tested with Postman
-- Verified image uploads, database entries, and frontend integration
-
----
